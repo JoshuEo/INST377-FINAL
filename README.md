@@ -32,7 +32,7 @@ This application is designed for modern desktop and mobile browsers:
 
 ## Demo Video
 
-https://youtu.be/EDV3nmbnOTs
+https://youtu.be/Rd25lcF2dWM
 
 # Developer Manual
 
