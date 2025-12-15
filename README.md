@@ -3,6 +3,8 @@
 Project Title - **ClearSkies Planner**
 *An Outdoor Air Quality & Activity Planning Web App*
 
+Vercel App: https://inst-377-final-ivory.vercel.app/planner
+
 ## Project Description
 
 ClearSkies Planner is a web application that helps users make safer, smarter decisions about outdoor activities by combining **weather forecasts** and **air quality data** into a single, easy-to-understand interface.
@@ -224,3 +226,4 @@ Currently, this project focuses on functional integration testing via manual val
 - **Open-Meteo Weather API** – Weather forecasts
 - **OpenAQ API** – Global air quality data
 - **OpenStreetMap** – Map tiles via Leaflet
+
